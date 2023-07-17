@@ -6,3 +6,5 @@
   <li> Allow user generated quotes. </li>
   <li> Save quotes.</li>
 </ul>
+
+<p> generates random quotes! <br> New quotes can be added in the array. </p>
