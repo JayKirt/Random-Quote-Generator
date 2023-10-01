@@ -7,4 +7,4 @@
   <li> Save quotes. </li>
 </ul>
 
-<p>Generates random quotes! <br> New quotes can be added in the array.</p>
+<p> Generates random quotes! <br> New quotes can be added in the array.</p>
